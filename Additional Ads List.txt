@@ -1,0 +1,2 @@
+# Additional Ads Management
+DOMAIN-SUFFIX,ads-pixiv.net
